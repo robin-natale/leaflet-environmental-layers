@@ -1,4 +1,4 @@
-Robin Contributing to Leaflet Environmental Layers
+Contributing to Leaflet Environmental Layers
 ==========================
 
 We welcome community contributions to Leaflet Environmental Layers! For local installation, follow the instructions in the [README.md file](./README.md).
